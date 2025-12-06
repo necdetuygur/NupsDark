@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NupsDark
+Comment=NupsDark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NupsDark
+MetacityTheme=NupsDark
+IconTheme=NupsDark
+CursorTheme=NupsDark
+ButtonLayout=:minimize,maximize,close
